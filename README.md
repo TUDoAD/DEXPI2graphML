@@ -1,7 +1,7 @@
 # DEXPI2graphML-Converter
 
-## Author:
-Jonas Oeing,
+### Author:
+Jonas Oeing,<br>
 TU Dortmund University,
 Laboratory of Equipment Design
 
