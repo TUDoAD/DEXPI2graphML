@@ -1,0 +1,1180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d34" for="edge" attr.name="edge_heated_cooled" attr.type="string"/>
+<key id="d33" for="edge" attr.name="edge_insulation" attr.type="string"/>
+<key id="d32" for="edge" attr.name="edge_number" attr.type="string"/>
+<key id="d31" for="edge" attr.name="edge_pipe_class" attr.type="string"/>
+<key id="d30" for="edge" attr.name="edge_diameter" attr.type="string"/>
+<key id="d29" for="edge" attr.name="edge_material" attr.type="string"/>
+<key id="d28" for="edge" attr.name="edge_sub_class" attr.type="string"/>
+<key id="d27" for="edge" attr.name="edge_class" attr.type="string"/>
+<key id="d26" for="node" attr.name="node_agitator" attr.type="string"/>
+<key id="d25" for="node" attr.name="node_sub_group" attr.type="string"/>
+<key id="d24" for="node" attr.name="node_group" attr.type="string"/>
+<key id="d23" for="node" attr.name="node_operation" attr.type="string"/>
+<key id="d22" for="node" attr.name="node_b" attr.type="string"/>
+<key id="d21" for="node" attr.name="node_a" attr.type="string"/>
+<key id="d20" for="node" attr.name="node_request" attr.type="string"/>
+<key id="d19" for="node" attr.name="node_location" attr.type="string"/>
+<key id="d18" for="node" attr.name="node_y" attr.type="double"/>
+<key id="d17" for="node" attr.name="node_x" attr.type="double"/>
+<key id="d16" for="node" attr.name="node_cool_heat_system" attr.type="string"/>
+<key id="d15" for="node" attr.name="node_insulation" attr.type="string"/>
+<key id="d14" for="node" attr.name="node_volume" attr.type="string"/>
+<key id="d13" for="node" attr.name="node_unit_T2" attr.type="string"/>
+<key id="d12" for="node" attr.name="node_T_min" attr.type="string"/>
+<key id="d11" for="node" attr.name="node_unit_T1" attr.type="string"/>
+<key id="d10" for="node" attr.name="node_T_max" attr.type="string"/>
+<key id="d9" for="node" attr.name="node_unit_P2" attr.type="string"/>
+<key id="d8" for="node" attr.name="node_P_min" attr.type="string"/>
+<key id="d7" for="node" attr.name="node_unit_P1" attr.type="string"/>
+<key id="d6" for="node" attr.name="node_P_max" attr.type="string"/>
+<key id="d5" for="node" attr.name="node_unit_V" attr.type="string"/>
+<key id="d4" for="node" attr.name="node_material" attr.type="string"/>
+<key id="d3" for="node" attr.name="node_sub_class" attr.type="string"/>
+<key id="d2" for="node" attr.name="node_class" attr.type="string"/>
+<key id="d1" for="node" attr.name="node_name" attr.type="string"/>
+<key id="d0" for="node" attr.name="node_ID" attr.type="string"/>
+<graph edgedefault="directed"><node id="B-D1">
+  <data key="d0">E_2</data>
+  <data key="d1">B-D1</data>
+  <data key="d2">Vessel</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">No</data>
+  <data key="d16"></data>
+  <data key="d17">994.3750000000006</data>
+  <data key="d18">748.0357142857134</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Vessel</data>
+  <data key="d25">Vessel (liquid)</data>
+  <data key="d26">No</data>
+</node>
+<node id="HX-D1">
+  <data key="d0">E_11</data>
+  <data key="d1">HX-D1</data>
+  <data key="d2">Heat exchanger</data>
+  <data key="d3">Wärmeaustauscher (M-Form)</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">886.8750000000009</data>
+  <data key="d18">768.0357142857134</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (medium)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="HX-C1">
+  <data key="d0">E_12</data>
+  <data key="d1">HX-C1</data>
+  <data key="d2">Heat exchanger</data>
+  <data key="d3">Wärmeaustauscher (M-Form)</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">849.3750000000007</data>
+  <data key="d18">810.5357142857135</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (medium)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="C1">
+  <data key="d0">E_23</data>
+  <data key="d1">C1</data>
+  <data key="d2">Column</data>
+  <data key="d3">Column, general</data>
+  <data key="d4"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">Yes</data>
+  <data key="d16"></data>
+  <data key="d17">699.9999999999999</data>
+  <data key="d18">689.9999999999997</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Column</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="HX-B1">
+  <data key="d0">E_48</data>
+  <data key="d1">HX-B1</data>
+  <data key="d2">Heat exchanger</data>
+  <data key="d3">Wärmeaustauscher (M-Form)</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">700.0000000000001</data>
+  <data key="d18">600.0</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (medium)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="B1">
+  <data key="d0">E_51</data>
+  <data key="d1">B1</data>
+  <data key="d2">Basin</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">650.3028488531702</data>
+  <data key="d18">535.0024366424698</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Vessel</data>
+  <data key="d25">Vessel (liquid)</data>
+  <data key="d26">No</data>
+</node>
+<node id="B-B1">
+  <data key="d0">E_59</data>
+  <data key="d1">B-B1</data>
+  <data key="d2">Vessel</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">No</data>
+  <data key="d16"></data>
+  <data key="d17">1082.4999999999998</data>
+  <data key="d18">479.9999999999995</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Vessel</data>
+  <data key="d25">Vessel (liquid)</data>
+  <data key="d26">No</data>
+</node>
+<node id="E_72">
+  <data key="d0">E_72</data>
+  <data key="d1"></data>
+  <data key="d2">Fluid pump</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">838.7499999999999</data>
+  <data key="d18">714.9999999999998</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Pump</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="E_73">
+  <data key="d0">E_73</data>
+  <data key="d1"></data>
+  <data key="d2">Fluid pump</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">962.4999999999999</data>
+  <data key="d18">602.5000000000002</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Pump</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="B-F1">
+  <data key="d0">E_83</data>
+  <data key="d1">B-F1</data>
+  <data key="d2">Vessel</data>
+  <data key="d3">General</data>
+  <data key="d4"></data>
+  <data key="d5"></data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14"></data>
+  <data key="d15">No</data>
+  <data key="d16"></data>
+  <data key="d17">1119.9999999999995</data>
+  <data key="d18">647.4999999999995</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Vessel</data>
+  <data key="d25">Vessel (liquid)</data>
+  <data key="d26">No</data>
+</node>
+<node id="P-F1">
+  <data key="d0">E_88</data>
+  <data key="d1">P-F1</data>
+  <data key="d2">Fluid pump</data>
+  <data key="d3">Pump, gear type</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">1073.7500000000002</data>
+  <data key="d18">635.0</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Pump</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="HX-F1">
+  <data key="d0">E_94</data>
+  <data key="d1">HX-F1</data>
+  <data key="d2">Heat exchanger</data>
+  <data key="d3">Wärmeaustauscher (M-Form)</data>
+  <data key="d4"></data>
+  <data key="d5">Not available</data>
+  <data key="d6"></data>
+  <data key="d7"></data>
+  <data key="d8"></data>
+  <data key="d9"></data>
+  <data key="d10"></data>
+  <data key="d11"></data>
+  <data key="d12"></data>
+  <data key="d13"></data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">765.0</data>
+  <data key="d18">680.0000000000001</data>
+  <data key="d19"></data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Column</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (medium)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="PC_6">
+  <data key="d0">PC_6</data>
+  <data key="d1"></data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">1006.875000000001</data>
+  <data key="d18">800.5357142857132</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="PC_14">
+  <data key="d0">PC_14</data>
+  <data key="d1"></data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">849.3750000000006</data>
+  <data key="d18">827.5000000000005</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V05">
+  <data key="d0">PC_13</data>
+  <data key="d1">V05</data>
+  <data key="d2">Three-way globe valve</data>
+  <data key="d3">Piston</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">849.3750000000007</data>
+  <data key="d18">785.5357142857135</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="Pipe_tee_1">
+  <data key="d0">PC_25</data>
+  <data key="d1">Pipe_tee_1</data>
+  <data key="d2">Pipe tee</data>
+  <data key="d3">General</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">814.3750000000007</data>
+  <data key="d18">785.5357142857135</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Pipe tee</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V06">
+  <data key="d0">PC_10</data>
+  <data key="d1">V06</data>
+  <data key="d2">Three-way valve, general</data>
+  <data key="d3">General</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">911.8750000000009</data>
+  <data key="d18">768.0357142857137</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V01">
+  <data key="d0">PC_93</data>
+  <data key="d1">V01</data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Solenoid</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">792.4999999999997</data>
+  <data key="d18">657.5000000000002</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V-B3">
+  <data key="d0">PC_47</data>
+  <data key="d1">V-B3</data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">700.0000000000001</data>
+  <data key="d18">642.5000000000002</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V-B2">
+  <data key="d0">PC_46</data>
+  <data key="d1">V-B2</data>
+  <data key="d2">Valve, three way globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">700.0000000000001</data>
+  <data key="d18">622.5000000000002</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Not available</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V02">
+  <data key="d0">PC_49</data>
+  <data key="d1">V02</data>
+  <data key="d2">Valve, three way globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">700.0000000000001</data>
+  <data key="d18">557.5000000000001</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Not available</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="V-B4">
+  <data key="d0">PC_50</data>
+  <data key="d1">V-B4</data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Solenoid</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">735.0000000000002</data>
+  <data key="d18">557.4999999999994</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="PC_61">
+  <data key="d0">PC_61</data>
+  <data key="d1"></data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">1095.0</data>
+  <data key="d18">534.9999999999992</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="HX01">
+  <data key="d0">PC_74</data>
+  <data key="d1">HX01</data>
+  <data key="d2">Heat exchanger </data>
+  <data key="d3">With intersecting flow lines</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">858.75</data>
+  <data key="d18">714.9999999999998</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (medium)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="PC_84">
+  <data key="d0">PC_84</data>
+  <data key="d1"></data>
+  <data key="d2">Valve, globe type</data>
+  <data key="d3">Manually adjusted</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">1132.4999999999995</data>
+  <data key="d18">702.4999999999998</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Valves/Fittings</data>
+  <data key="d25">Valve (operation)</data>
+  <data key="d26">not available</data>
+</node>
+<node id="PC_87">
+  <data key="d0">PC_87</data>
+  <data key="d1"></data>
+  <data key="d2">Detector for flow</data>
+  <data key="d3">General</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">1053.75</data>
+  <data key="d18">635.0</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Not available</data>
+  <data key="d25">Not available</data>
+  <data key="d26">not available</data>
+</node>
+<node id="HX02">
+  <data key="d0">PC_106</data>
+  <data key="d1">HX02</data>
+  <data key="d2">Electric Heaters</data>
+  <data key="d3">General</data>
+  <data key="d4">Not available</data>
+  <data key="d5">Not available</data>
+  <data key="d6">Not available</data>
+  <data key="d7">Not available</data>
+  <data key="d8">Not available</data>
+  <data key="d9">Not available</data>
+  <data key="d10">Not available</data>
+  <data key="d11">Not available</data>
+  <data key="d12">Not available</data>
+  <data key="d13">Not available</data>
+  <data key="d14">Not available</data>
+  <data key="d15">Not available</data>
+  <data key="d16">Not available</data>
+  <data key="d17">666.2500023838948</data>
+  <data key="d18">662.5</data>
+  <data key="d19">Not available</data>
+  <data key="d20">Not available</data>
+  <data key="d21">Not available</data>
+  <data key="d22">Not available</data>
+  <data key="d23">Not available</data>
+  <data key="d24">Heat exchanger</data>
+  <data key="d25">Heat exchanger (electric)</data>
+  <data key="d26">not available</data>
+</node>
+<edge source="B-D1" target="PC_6">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-D1" target="V06">
+  <data key="d27">Rohrleitung</data>
+  <data key="d28">Hauptleitung</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">Not available</data>
+  <data key="d34">Not available</data>
+</edge>
+<edge source="HX-D1" target="HX-B1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-C1" target="PC_14">
+  <data key="d27">Rohrleitung</data>
+  <data key="d28">Nebenleitung</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">Not available</data>
+  <data key="d34">Not available</data>
+</edge>
+<edge source="HX-C1" target="HX-D1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="C1" target="Pipe_tee_1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="C1" target="V-B3">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="C1" target="HX02">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-B1" target="V02">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-B1" target="E_73">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="B-B1" target="PC_61">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="E_72" target="HX01">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="E_73" target="HX01">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="B-F1" target="PC_84">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="B-F1" target="P-F1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="P-F1" target="PC_87">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-F1" target="C1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX-F1" target="E_72">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V05" target="HX-C1">
+  <data key="d27">Rohrleitung</data>
+  <data key="d28">Hauptleitung</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">Not available</data>
+  <data key="d34">Not available</data>
+</edge>
+<edge source="V05" target="HX-D1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="Pipe_tee_1" target="V05">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V06" target="V01">
+  <data key="d27">Rohrleitung</data>
+  <data key="d28">Hauptleitung</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">Not available</data>
+  <data key="d34">Not available</data>
+</edge>
+<edge source="V01" target="B-D1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V01" target="B-B1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V01" target="V01">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V01" target="HX-F1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V-B3" target="V-B2">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V-B2" target="HX-B1">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V-B2" target="B1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V02" target="V-B4">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V02" target="B1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="V-B4" target="V01">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX01" target="HX-C1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX01" target="HX-F1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="PC_87" target="V01">
+  <data key="d27">Piping</data>
+  <data key="d28">Main pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+<edge source="HX02" target="C1">
+  <data key="d27">Piping</data>
+  <data key="d28">Secondary pipe</data>
+  <data key="d29"></data>
+  <data key="d30"></data>
+  <data key="d31"></data>
+  <data key="d32"></data>
+  <data key="d33">No</data>
+  <data key="d34">No</data>
+</edge>
+</graph></graphml>

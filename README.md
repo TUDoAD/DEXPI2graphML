@@ -1,1 +1,67 @@
-# DEXPI2graphML
+# Dexpi2GraphML-Converter
+
+### Tool to convert DEXPI-P&ID-Flowsheets into GraphML-graphs, which can be processed in ML/DL-applications via python (e.g. pytorch, keras etc.)
+- DEXPI (specification [1]) provides machine-readable plant topology data
+- Availability for application in artificial intelligence
+- Conversion via a graphical user interface
+
+<figure role="group">
+  <img src="./figures/dexpi2graph_idea.png" alt="SelfHTML-Logo" width=600>
+    <figcaption>
+    Figure 1. Idea of converting a DEXPI Piping- and Instrumentation Diagram (P&ID) into a graphML graph representation.
+  </figcaption>
+</figure>
+
+## Note:
+The skript was tested with P&ID-flowsheets (DEXPI-xml) created with the software <b>PlantEngineer</b> developed by <b>X-Visual Technologies</b>. 
+<span style="color:green"> It is important, that the connection of all MS Visio shapes are correctly connected by the user. Otherwise the tool will not achieve the 
+desired output because of mission topology information of the DEXPI files.</span>
+
+## Install:
+The converter is available as an application well as for Python.
+A application for Windows 10 will be available soon.
+
+### Python installation
+1. Install Python (anaconda) from https://www.anaconda.com/products/individual
+2. Load the following python libraries
+	- [NetworkX](https://networkx.org/) (vers. 2.4) [2]
+	- [Matplotlib](https://matplotlib.org/) (vers. 3.2.2) [3]
+	- [Pandas](https://pandas.pydata.org/) (vers. 1.0.5) [4]
+	- [NLTK](https://www.nltk.org/) (vers. 3.5) [5]
+	- [Pillow](https://pillow.readthedocs.io/en/stable/) (vers. 7.2.0) [6]
+	- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) (vers. 4.56.0) [7]
+	- [lxml](https://lxml.de/) (vers. 4.5.2) [8]
+3. Download the folder dexpi2graph_python.
+4. Running the script *dexpi2graphML.py* starts the converter.
+
+## How to Use:
+The *DEXPI2graphML  converter* consists a graphical user interface (GUI) shown in Figure 2.
+On the upper left side you find a bar to browse the input folder, which containts the DEXPI-P&IDs you want to convert.
+On the left handside a console shows the output as well as the error log of the conversion process.
+On the left handside you will find a plot window which shows the converted plots.
+
+<figure role="group">
+  <img src="./figures/dexpi2graph_gui.png" alt="dexpi2graph GUI" width=600>
+  <figcaption>
+    Figure 2. GUI of the *DEXPI2graphML converter*.
+  </figcaption>  
+</figure>
+
+## Example P&ID files:
+The folder *DEXPI_examples* containts two different DEXPI P&IDs:
+- A laboratory distillation plant *Querverweis* P&ID_1 [Quelle Paper Lukas]
+- Textbooks example distillation plant *Querverweis* P&ID_2 [Quelle Lehrbuch]
+
+
+## References:
+[1] DEXPI Initiative, DEXPI specification 1.3, https://dexpi.org/specifications/, accessed on 25.08.2021
+[2] NetworkX developers, online documentation, https://networkx.org/, accessed on 09.03.2022
+[3] Matplotlib development team, online documentation, https://matplotlib.org/, accessed on 09.03.2022
+[4] Pandas development team, online documentation, https://pandas.pydata.org/, accessed on 09.03.2022
+[5] NLTK project, online documentation, https://www.nltk.org/, accessed on 09.03.2022
+[6] Alex Clark and contributors, online documentation, https://pillow.readthedocs.io/en/stable/, accessed on 09.03.2022
+[7] PySimpleGUI, online documentation, https://pysimplegui.readthedocs.io/en/latest/, accessed on 09.03.2022
+[8] lxml development team, online documentation, https://lxml.de/, accessed on 09.03.2022
+
+[9] 
+[10] 
