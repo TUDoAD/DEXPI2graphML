@@ -49,8 +49,8 @@ On the left handside you will find a plot window which shows the converted plots
 
 ## Example P&ID files:
 The folder *DEXPI_examples* containts two different DEXPI P&IDs:
-- A laboratory distillation plant *Querverweis* P&ID_1 [Quelle Paper Lukas]
-- Textbooks example distillation plant *Querverweis* P&ID_2 [Quelle Lehrbuch]
+- A laboratory distillation plant [P&ID_distillation_laboratory](./DEXPI_examples/distillation_laboratory.xml) [9]
+- Textbooks example distillation plant [P&ID_distillation](./DEXPI_examples/distillation_plant.xml) P&ID_2 [10]
 
 
 ## References:
@@ -63,5 +63,5 @@ The folder *DEXPI_examples* containts two different DEXPI P&IDs:
 [7] PySimpleGUI, online documentation, https://pysimplegui.readthedocs.io/en/latest/, accessed on 09.03.2022
 [8] lxml development team, online documentation, https://lxml.de/, accessed on 09.03.2022
 
-[9] 
-[10] 
+[9] Oeing, J., Neuendorf, L.M., Bittorf, L., Krieger, W. and Kockmann, N. (2021), Flooding Prevention in Distillation and Extraction Columns with Aid of Machine Learning Approaches. Chem. Ing. Tech., 93: 1917-1929. https://doi.org/10.1002/cite.202100051
+[10] Baerns, M., Behr, A., Brehm, A., Gmehling, J., Hinrichsen, K.-O., Hofmann, H., & Onken, U., Palkovits, R., Renken, A. (2013). Technische Chemie. Wiley-VCH, Weinheim.
