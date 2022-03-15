@@ -50,7 +50,7 @@ On the left handside you will find a plot window which shows the converted plots
 ## Example P&ID files:
 The folder *DEXPI_examples* containts two different DEXPI P&IDs:
 - A laboratory distillation plant [P&ID_distillation_laboratory](./DEXPI_examples/distillation_laboratory.xml) [9]
-- Textbooks example distillation plant [P&ID_distillation](./DEXPI_examples/distillation_plant.xml) P&ID_2 [10]
+- Textbooks example distillation plant [P&ID_distillation](./DEXPI_examples/distillation_plant.xml) [10]
 
 
 ## References:
