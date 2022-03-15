@@ -1,5 +1,10 @@
 # DEXPI2graphML-Converter
 
+## Author:
+Jonas Oeing,
+TU Dortmund University,
+Laboratory of Equipment Design
+
 ### Tool to convert DEXPI-P&ID-Flowsheets into GraphML-graphs, which can be processed in ML/DL-applications via python (e.g. pytorch, keras etc.)
 - DEXPI (specification [1]) provides machine-readable plant topology data
 - Availability for application in artificial intelligence
