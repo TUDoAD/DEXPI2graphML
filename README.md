@@ -1,5 +1,10 @@
 # DEXPI2graphML-Converter
 
+## Publication using the DEXPI2graphML converter: https://doi.org/10.1016/j.dche.2022.100038
+Jonas Oeing, Wolfgang Welscher, Niclas Krink, Lars Jansen, Fabian Henke, Norbert Kockmann,
+Using artificial intelligence to support the drawing of piping and instrumentation diagrams using DEXPI standard,
+Digital Chemical Engineering, Volume 4, 2022, ISSN 2772-5081,
+
 ### Authors:
 Jonas Oeing, Tim Holtermann<br>
 TU Dortmund University,
