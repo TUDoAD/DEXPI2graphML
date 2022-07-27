@@ -28,7 +28,7 @@ The skript was tested with P&ID-flowsheets (DEXPI-xml) created with the software
 desired output because of mission topology information of the DEXPI files.</span>
 
 ## Install:
-The converter is available as an application well as for Python.
+The converter is available as an application for Python.
 A application for Windows 10 will be available soon.
 
 ### Python installation
