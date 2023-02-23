@@ -41,6 +41,7 @@ A application for Windows 10 will be available soon.
 	- [Pillow](https://pillow.readthedocs.io/en/stable/) (vers. 7.2.0) [6]
 	- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) (vers. 4.56.0) [7]
 	- [lxml](https://lxml.de/) (vers. 4.5.2) [8]
+    - [openpyxl]() (vers. 3.0.9) [9]
 3. Download the folder dexpi2graph_python.
 4. Running the script *dexpi2graphML.py* starts the converter.
 
@@ -59,8 +60,8 @@ On the left handside you will find a plot window which shows the converted plots
 
 ## Example P&ID files:
 The folder *DEXPI_examples* containts two different DEXPI P&IDs:
-- A laboratory distillation plant [P&ID_distillation_laboratory](./DEXPI_examples/distillation_laboratory.xml) [9]
-- Textbooks example distillation plant [P&ID_distillation](./DEXPI_examples/distillation_plant.xml) [10]
+- A laboratory distillation plant [P&ID_distillation_laboratory](./DEXPI_examples/distillation_laboratory.xml) [10]
+- Textbooks example distillation plant [P&ID_distillation](./DEXPI_examples/distillation_plant.xml) [11]
 
 
 ## References:
@@ -72,5 +73,6 @@ The folder *DEXPI_examples* containts two different DEXPI P&IDs:
 [6] Alex Clark and contributors, online documentation, https://pillow.readthedocs.io/en/stable/, accessed on 09.03.2022<br>
 [7] PySimpleGUI, online documentation, https://pysimplegui.readthedocs.io/en/latest/, accessed on 09.03.2022<br>
 [8] lxml development team, online documentation, https://lxml.de/, accessed on 09.03.2022<br>
-[9] Oeing, J., Neuendorf, L.M., Bittorf, L., Krieger, W. and Kockmann, N. (2021), Flooding Prevention in Distillation and Extraction Columns with Aid of Machine Learning Approaches. Chem. Ing. Tech., 93: 1917-1929. https://doi.org/10.1002/cite.202100051<br>
-[10] Baerns, M., Behr, A., Brehm, A., Gmehling, J., Hinrichsen, K.-O., Hofmann, H., & Onken, U., Palkovits, R., Renken, A. (2013). Technische Chemie. Wiley-VCH, Weinheim.<br>
+[9] openpyxl, online documentation, https://openpyxl.readthedocs.io, accessed on 23.02.2023<br>
+[10] Oeing, J., Neuendorf, L.M., Bittorf, L., Krieger, W. and Kockmann, N. (2021), Flooding Prevention in Distillation and Extraction Columns with Aid of Machine Learning Approaches. Chem. Ing. Tech., 93: 1917-1929. https://doi.org/10.1002/cite.202100051<br>
+[11] Baerns, M., Behr, A., Brehm, A., Gmehling, J., Hinrichsen, K.-O., Hofmann, H., & Onken, U., Palkovits, R., Renken, A. (2013). Technische Chemie. Wiley-VCH, Weinheim.<br>
