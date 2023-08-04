@@ -33,7 +33,8 @@ A application for Windows 10 will be available soon.
 
 ### Python installation
 1. Install Python (anaconda) from https://www.anaconda.com/products/individual
-2. Load the following python libraries
+2. Download the folder dexpi2graph_python.
+3. Load the following python libraries
 	- [NetworkX](https://networkx.org/) (vers. 2.4) [2]
 	- [Matplotlib](https://matplotlib.org/) (vers. 3.2.2) [3]
 	- [Pandas](https://pandas.pydata.org/) (vers. 1.0.5) [4]
@@ -42,8 +43,12 @@ A application for Windows 10 will be available soon.
 	- [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) (vers. 4.56.0) [7]
 	- [lxml](https://lxml.de/) (vers. 4.5.2) [8]
     - [openpyxl]() (vers. 3.0.9) [9]
-3. Download the folder dexpi2graph_python.
-4. Running the script *dexpi2graphML.py* starts the converter.
+
+  or create a new conda environment via
+  ```
+  conda env create --name envname --file=environment.yml
+  ```
+4. Running the script *dexpi2graphML-ad@TUDO.py* from main directory and starts the converter.
 
 ## How to Use:
 The *DEXPI2graphML  converter* consists a graphical user interface (GUI) shown in Figure 2.
