@@ -93,7 +93,7 @@ while True:
             window.FindElement('_output_').Update('')
             file = values['selected_plot'][0][:-4]
             error_file = './Output/errorLog/'+file+'_ErrorLog.xlsx'
-            error_df = pd.read_excel(error_file)
+            error_df = pd.read_excel(error_file, engine='openpyxl')
             for i in range(0, len(error_df)):
                 print(error_df['Warning'][i])
                 print(error_df['Node(s)'][i])
